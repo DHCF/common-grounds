@@ -1,4 +1,5 @@
-# Pinoy IT Geeks Activities
+# Pinoy IT Geeks
+######Activities
 
 ### Introduction
 
